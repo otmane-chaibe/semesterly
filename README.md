@@ -15,6 +15,8 @@ Read the docs and learn more: http://semesterly.readthedocs.io/en/latest/
 
 <p align="center"><img src="http://i.imgur.com/G543QPJ.jpg"></p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## License
 
 Copyright 2017, Semester.ly Technologies, LLC
